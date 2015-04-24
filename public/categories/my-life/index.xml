@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Life on Wingyplus Blog</title>
+    <link>http://wingyplus.github.io/categories/my-life/</link>
+    <description>Recent content in My Life on Wingyplus Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2015 23:27:20 +0700</lastBuildDate>
+    <atom:link href="http://wingyplus.github.io/categories/my-life/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First commit - Initial blog</title>
+      <link>http://wingyplus.github.io/post/first-blog/</link>
+      <pubDate>Thu, 23 Apr 2015 23:27:20 +0700</pubDate>
+      
+      <guid>http://wingyplus.github.io/post/first-blog/</guid>
+      <description>&lt;p&gt;Hello หลังจากที่ไม่ได้เขียน blog มานาน
+ตอนนี้ก็กลับมาอีกครั้งแต่คิดว่าคราวนี้จะทำใหม่แต่จะทำในรูปแบบของ
+markdown เนื่องจากมีปัญหากับ tumblr ว่า editor ของมันของข้างรวนและ HTML
+mode มันค่อนข้างเพี้ยนเมื่อกลับไปอยู่ visual mode และส่วนตัวค่อนข้างถนัด
+git และ text editor อยู่แล้วการเขียน blog ด้วย text editor
+อาจจะเหมาะกว่าสำหรับผม&lt;/p&gt;
+
+&lt;p&gt;blog นี้ถูกสร้างโดย &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; ซึ่งแน่นอนมันเขียนด้วยภาษา
+Go ตอนแรกลังเลอยู่สองตัวระหว่าง Jerkyll กับ Hugo
+แต่ด้วยความที่ไม่ถนัดภาษา Ruby เลยเลือกตัวนี่แทน
+ส่วนปัญหาของมันยังไม่เคยเจออาจจะต้องใช้ ไปซักพักก่อนถึงจะรู้ได้ และ
+theme ที่ไม่รู้จะใช้อันไหนอาจจะไปเปลี่ยนไปเรื่อยๆ
+ถ้าไม่ถูกใจอาจจะทำใช้เอง ฝึก HTML &amp;amp; CSS ไปด้วย
+ระหว่างนั้นก็จะนำมาเล่าสู่กันฟัง&lt;/p&gt;
+
+&lt;p&gt;ปีนี้สุขภาพค่อนข้างย้ำแย่เพราะการออกกำลังกายที่น้อยลง
+บวกกับงานที่ทำหนักขึ้น
+และสัปดาห์ก่อนนั้นเองอยู่ป่วยอย่างร่างกายบอกว่าไม่เอาด้วยแล้วก็เลยต้องพักอย่างเลี่ยงไม่ได้
+เดือนหน้าเลยตั้งเป้าไว้ว่าจะทำงานให้น้อยลง ไปงาน meetup น้อยลง
+และออกกำลังกายให้เยอะขึ้น เวลาว่างที่ทำน้อยลงอาจจะเอาไปลงกับ toy project
+1 ในนั้นคือ xtend เกมที่คิดไว้ตั้งแต่ปีที่แล้ว แต่ก็เริ่มแค่ PoC ตอนงาน
+Gopher-Gala (เป็นงาน hackathon ของภาษา Go) และ private project ของ
+Sprint3r แต่ก็ไม่รู้ว่าจะทำได้มากแค่ไหนเอาตามที่กำลังมันไปไหวล่ะกัน&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
