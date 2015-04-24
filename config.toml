@@ -1,0 +1,9 @@
+baseurl = "https://wingyplus.github.io/"
+languageCode = "en-us"
+title = "Wingyplus Blog"
+theme = "purehugo"
+Paginate = 10
+
+[params]
+  twitter = "wingyplus"
+  github = "wingyplus"
