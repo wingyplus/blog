@@ -1,5 +1,5 @@
 +++
-Categories = ["My life"]
+categories = ["My life"]
 date = "2015-04-23T23:27:20+07:00"
 menu = "main"
 title = "First commit - Initial blog"
