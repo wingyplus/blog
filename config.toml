@@ -1,4 +1,4 @@
-baseurl = "https://wingyplus.github.io/"
+baseurl = "http://wingyplus.github.io/"
 languageCode = "en-us"
 title = "Wingyplus Blog"
 theme = "purehugo"
