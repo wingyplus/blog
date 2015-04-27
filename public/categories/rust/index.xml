@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rust on Wingyplus Blog</title>
+    <link>http://localhost:1313/categories/rust/</link>
+    <description>Recent content in Rust on Wingyplus Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2015 21:51:45 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/rust/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>รู้จักกับภาษา Rust</title>
+      <link>http://localhost:1313/post/introduction-to-rust/</link>
+      <pubDate>Mon, 27 Apr 2015 21:51:45 +0700</pubDate>
+      
+      <guid>http://localhost:1313/post/introduction-to-rust/</guid>
+      <description>&lt;p&gt;ช่วงนี้มีภาษานึงที่เกิดมาได้ซักพักใหญ่แต่ก็ไม่ยอม release จนกระทั่งเมื่อไม่นานมานี้ rust มีกำหนดการจะออกรุ่น 1.0 ในเดือนหน้าเพราะฉะนั้นเรามาทำความรู้จักไวยากรณ์ของภาษากันซักหน่อยดีกว่า&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-rust&#34;&gt;fn main() {
+    let mut x = vec![&amp;quot;Hello&amp;quot;, &amp;quot;world&amp;quot;];
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;จากโค้ดด้านบน&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ประกาศฟังก์ชั่นใช้ keyword &lt;code&gt;fn&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ตัวแปร &lt;code&gt;x&lt;/code&gt; จะผูกกับ type &lt;code&gt;Vec&amp;lt;T&amp;gt;&lt;/code&gt; ซึ่งถูกสร้างจาก macro ชื่อว่า &lt;code&gt;vec&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;เรียกใช้งาน macro โดยใช้เครื่องหมาย &lt;code&gt;!&lt;/code&gt; ต่อหลังชื่อ macro&lt;/li&gt;
+&lt;li&gt;ใช้ keyword &lt;code&gt;mut&lt;/code&gt; เพื่อบอกว่าตัวแปรสามารถเปลี่ยนแปลงค่าได้หลังจากประกาศ หรือ mutable นั้นเอง&lt;/li&gt;
+&lt;li&gt;นั้นแสดงว่าโดยปกติตัวแปรของ rust จะไม่สามารถเปลี่ยนแปลงค่าได้ (หรือ immutable) หลังจาก assign
+ค่าให้แล้ว&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;อันนี้เป็นเพียงตัวอย่างสั้นๆ เพื่อให้เห็นภาพของภาษา&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
