@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wingyplus Blog</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://wingyplus.github.io/post/</link>
     <description>Recent content in Posts on Wingyplus Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2015 21:51:45 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wingyplus.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>รู้จักกับภาษา Rust</title>
-      <link>http://localhost:1313/post/introduction-to-rust/</link>
+      <link>http://wingyplus.github.io/post/introduction-to-rust/</link>
       <pubDate>Mon, 27 Apr 2015 21:51:45 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/introduction-to-rust/</guid>
+      <guid>http://wingyplus.github.io/post/introduction-to-rust/</guid>
       <description>&lt;p&gt;ช่วงนี้มีภาษานึงที่เกิดมาได้ซักพักใหญ่แต่ก็ไม่ยอม release จนกระทั่งเมื่อไม่นานมานี้ rust มีกำหนดการจะออกรุ่น 1.0 ในเดือนหน้าเพราะฉะนั้นเรามาทำความรู้จักไวยากรณ์ของภาษากันซักหน่อยดีกว่า&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-rust&#34;&gt;fn main() {
@@ -39,10 +39,10 @@
     
     <item>
       <title>First commit - Initial blog</title>
-      <link>http://localhost:1313/post/first-blog/</link>
+      <link>http://wingyplus.github.io/post/first-blog/</link>
       <pubDate>Thu, 23 Apr 2015 23:27:20 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/first-blog/</guid>
+      <guid>http://wingyplus.github.io/post/first-blog/</guid>
       <description>&lt;p&gt;Hello หลังจากที่ไม่ได้เขียน blog มานาน
 ตอนนี้ก็กลับมาอีกครั้งแต่คิดว่าคราวนี้จะทำใหม่แต่จะทำในรูปแบบของ
 markdown เนื่องจากมีปัญหากับ tumblr ว่า editor ของมันของข้างรวนและ HTML
